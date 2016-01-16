@@ -1,4 +1,4 @@
-cask :v1 => 'font-kokoro-minchoutai' do
+cask 'font-kokoro-minchoutai' do
   version :latest
   sha256 'e4566175799d52f9e3b6dd8774596428ea27dd40596e1283aa627689e5ac98d8'
 

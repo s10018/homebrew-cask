@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-cask :v1 => 'font-eriji' do
+cask 'font-eriji' do
   version '0613'
   sha256 :no_check
 

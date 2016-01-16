@@ -1,4 +1,4 @@
-cask :v1 => 'font-migmix2p' do
+cask 'font-migmix2p' do
   version '20130617'
   sha256 '639bf85bca573d6d3be5487c8612dac88586d37c823ddb002584f59dcf7f3aa8'
 

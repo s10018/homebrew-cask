@@ -1,5 +1,5 @@
 # coding: utf-8
-cask :v1 => 'font-honoka-min' do
+cask 'font-honoka-min' do
   version '1.00'
   sha256 'd2a42f64a03315bd6878608f142f065a9fda8c6ee4ed086a931cd69707f44d45'
 

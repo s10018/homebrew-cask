@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-cask :v1 => 'font-kokuri' do
+cask 'font-kokuri' do
   version '20151021'
   sha256 :no_check
 

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-cask :v1 => 'font-cinecaption' do
+cask 'font-cinecaption' do
   version '2.28'
   sha256 'c3378620dd2073a6eceedc7f9c0e05e61c942799acaf3ca7b9936e1782a7c15a'
 

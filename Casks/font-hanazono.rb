@@ -1,4 +1,4 @@
-cask :v1 => 'font-hanazono' do
+cask 'font-hanazono' do
   version '20141012'
   sha256 '06a7285dcc5c8a22aa3a1b319f965d9d336b84af61fabd5d9d5ba6fa2d861208'
 
