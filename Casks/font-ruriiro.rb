@@ -7,6 +7,6 @@ cask 'font-ruriiro' do
   homepage 'http://sapphirecrown.xxxxxxxx.jp/fh8tf4s/rc.html'
   license :unknown    # todo: improve this machine-generated value
   
-  system "mv", "%E9%DA%E9%DE%E9%F3%E9%D9.ttf", "るりいろ.ttf"
+  system "cp", "%E9%DA%E9%DE%E9%F3%E9%D9.ttf", "るりいろ.ttf"
   font 'るりいろ.ttf'
 end
