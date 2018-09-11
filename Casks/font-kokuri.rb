@@ -5,7 +5,6 @@ cask 'font-kokuri' do
 
   url 'http://osdn.jp/frs/redir.php?m=jaist&f=%2Fkoruri%2F63935%2FKoruri-20151021.tar.xz'
   homepage 'http://koruri.lindwurm.biz/'
-  license :apache
 
   font 'Koruri-20151021/Koruri-Regular.ttf'
   font 'Koruri-20151021/Koruri-Bold.ttf'
